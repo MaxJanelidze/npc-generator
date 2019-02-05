@@ -1,0 +1,42 @@
+{
+  "race": [
+    "human",
+    "elf",
+    "hafling",
+    "dwarf",
+    "dragonborn",
+    "gnome",
+    "goblin",
+    "kofold"
+  ],
+  "eyesColor": [
+    "black",
+    "red",
+    "green",
+    "orange"
+  ],
+  "hairColor": [
+    "black",
+    "red",
+    "green",
+    "orange"
+  ],
+  "skinColor": [
+    "black",
+    "red",
+    "green",
+    "orange"
+  ],
+  "bodyType": [
+    "tall",
+    "low",
+    "strong",
+    "weak",
+    "fat",
+    "thin"
+  ],
+  "gender": [
+    "male",
+    "female"
+  ]
+}

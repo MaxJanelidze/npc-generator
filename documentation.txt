@@ -1,0 +1,10 @@
+npc/
+  - [GET] => Retreives all NPC records
+
+npc/generate/
+  - [GET] => Generates NPC with random characters from .json file and saves it to datebase
+  - [POST] => Creates new NPC record with user provided values
+
+npc/:id/
+  - [PUT] => Updates NPC record by ID
+  - [DELETE] => Deletes NPC record from database by ID
